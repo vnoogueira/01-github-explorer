@@ -4,7 +4,7 @@ import '../style/repositories.scss';
 
 
 interface Repository {
-  name: string;
+  name: string;  
   full_name: string;
   html_url: string;
   id: number;
